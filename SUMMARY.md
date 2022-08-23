@@ -4,7 +4,8 @@
 
 ## New Virtual Identity
 
-* [Virtual Identity](new-virtual-identity/virtual-identity.md)
-* [Browser](new-virtual-identity/browser.md)
-* [Email](new-virtual-identity/email.md)
-* [VPN](new-virtual-identity/vpn.md)
+* [Virtual Identity](new-virtual-identity/virtual-identity/README.md)
+  * [Device](new-virtual-identity/virtual-identity/device.md)
+  * [Browser](new-virtual-identity/virtual-identity/browser.md)
+  * [Email](new-virtual-identity/virtual-identity/email.md)
+  * [VPN](new-virtual-identity/virtual-identity/vpn.md)
