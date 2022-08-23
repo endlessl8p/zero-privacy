@@ -1,13 +1,10 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Welcome to Zero Privacy.](README.md)
 
-## The Company
+## New Virtual Identity
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
-
-## The Formal Stuff
-
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [Virtual Identity](new-virtual-identity/virtual-identity.md)
+* [Browser](new-virtual-identity/browser.md)
+* [Email](new-virtual-identity/email.md)
+* [VPN](new-virtual-identity/vpn.md)
